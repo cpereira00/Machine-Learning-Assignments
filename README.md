@@ -1,7 +1,7 @@
 # Machine-Learning-Assignments
 machine learning programming exercises in MATLAB
 ## Assignment list
-1. Linear Regression **(Completed)
+1. Linear Regression **Completed
 2. Logistic Regression *(underway)
 3. Multi-class Classification & Neural networks
 4. Neural Network Learning
