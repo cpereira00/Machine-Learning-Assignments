@@ -6,6 +6,6 @@ machine learning programming exercises in MATLAB
 3. Multi-class Classification & Neural networks (Completed)
 4. Neural Network Learning (Completed)
 5. Regularized Linear Regression and Bias/Variance (Completed)
-6. Support Vector Machines (Underway)
-7. K-mean Clustering and PCA
+6. Support Vector Machines (Completed)
+7. K-mean Clustering and PCA (Underway)
 8. Anomoly Dectection and Recommender System
