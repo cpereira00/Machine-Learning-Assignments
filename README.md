@@ -8,4 +8,4 @@ machine learning programming exercises in MATLAB
 5. Regularized Linear Regression and Bias/Variance (Completed)
 6. Support Vector Machines (Completed)
 7. K-mean Clustering and PCA (Completed)
-8. Anomoly Dectection and Recommender System (Underway)
+8. Anomoly Dectection and Recommender System (Completed)
